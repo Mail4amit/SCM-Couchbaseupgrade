@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="SCM_tableBoringtable" key="{EF592C98-974E-4AE4-BDC7-BCEEE22EC631}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SCM_tableBoringtable.js" />
+		</child>
+		<child name="Unit1" key="{B8D7F5D8-D2D3-4E64-96E1-9D8EFDC2C57F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit1.js" />
+		</child>
+		<child name="Unit2" key="{6F7EBBB7-DA63-4048-8427-C8C03792C12C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit2.js" />
+		</child>
+		<child name="Unit3" key="{F4BEC07C-6D05-45BA-A74F-56B5661384C7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit3.js" />
+		</child>
+		<child name="Unit4" key="{CCC233F1-D5A2-4766-AEB7-3A8186E0E68D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit4.js" />
+		</child>
+		<child name="Unit5" key="{82E3766F-919F-4B74-B659-E32FF390B299}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit5.js" />
+		</child>
+	</children>
+	<folders />
+</Root>

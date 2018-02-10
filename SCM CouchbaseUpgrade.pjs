@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{5FEDBF91-D9E2-4245-BDB3-08771A700CA8}">
+	<children>
+		<child name="SCM CouchbaseUpgrade" key="{3B040CB9-90E6-41EC-9919-4845DEE4C9D1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="SCM CouchbaseUpgrade\SCM CouchbaseUpgrade.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{AD4DB398-6FDC-4032-81BF-B46B22F86972}">
+		<children>
+			<testItem key="{3B040CB9-90E6-41EC-9919-4845DEE4C9D1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{17A7C161-3322-4CF3-9024-2C358735DB2C}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{B8A77590-FCDB-4457-87EC-A240F5073F0E}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{30501691-969F-4007-923F-BA4459E51E6A}" version="12.0">
+	<children>
+		<child name="textboxUsername1" key="{3D700912-670C-48AB-A026-987F177FECDC}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="textboxUsername1" ID="{3D700912-670C-48AB-A026-987F177FECDC}" FileName="Objects\textboxUsername1.tcObject" Update="False" />
+		</child>
+		<child name="passwordboxPassword1" key="{84065EF4-61E1-4EB4-9EC7-17F84596F4CC}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="passwordboxPassword1" ID="{84065EF4-61E1-4EB4-9EC7-17F84596F4CC}" FileName="Objects\passwordboxPassword1.tcObject" Update="False" />
+		</child>
+		<child name="submitbuttonLogin1" key="{8C8BC2B5-0BEA-42FC-859D-7F2B66B3AFCA}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="submitbuttonLogin1" ID="{8C8BC2B5-0BEA-42FC-859D-7F2B66B3AFCA}" FileName="Objects\submitbuttonLogin1.tcObject" Update="False" />
+		</child>
+		<child name="linkListUsers1" key="{9DFBB531-B525-4CA2-B0DE-F221683820AE}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkListUsers1" ID="{9DFBB531-B525-4CA2-B0DE-F221683820AE}" FileName="Objects\linkListUsers1.tcObject" Update="False" />
+		</child>
+		<child name="linkRegistrations1" key="{4CF3CDE8-5B91-4EED-9869-4EF3ACFABED0}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkRegistrations1" ID="{4CF3CDE8-5B91-4EED-9869-4EF3ACFABED0}" FileName="Objects\linkRegistrations1.tcObject" Update="False" />
+		</child>
+		<child name="linkRegisterUser1" key="{23AF08A3-2317-4B8A-A365-4A1060DCD179}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkRegisterUser1" ID="{23AF08A3-2317-4B8A-A365-4A1060DCD179}" FileName="Objects\linkRegisterUser1.tcObject" Update="False" />
+		</child>
+		<child name="linkManageSuppliers1" key="{AE53A661-30BF-4388-B7F9-46D519568750}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkManageSuppliers1" ID="{AE53A661-30BF-4388-B7F9-46D519568750}" FileName="Objects\linkManageSuppliers1.tcObject" Update="False" />
+		</child>
+		<child name="linkManageLinks1" key="{085B7990-4B55-4FC5-A223-06D9970F8C3F}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkManageLinks1" ID="{085B7990-4B55-4FC5-A223-06D9970F8C3F}" FileName="Objects\linkManageLinks1.tcObject" Update="False" />
+		</child>
+		<child name="linkManageUsers1" key="{B62CAC57-9A1B-45BD-A96A-AADCADAA5019}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkManageUsers1" ID="{B62CAC57-9A1B-45BD-A96A-AADCADAA5019}" FileName="Objects\linkManageUsers1.tcObject" Update="False" />
+		</child>
+		<child name="linkFindSupplier1" key="{8214CA66-B660-42BB-9021-33516F238D81}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkFindSupplier1" ID="{8214CA66-B660-42BB-9021-33516F238D81}" FileName="Objects\linkFindSupplier1.tcObject" Update="False" />
+		</child>
+		<child name="linkAddSupplier1" key="{BC53E4C2-FC19-40BD-A7B3-ECEAE6F239C0}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkAddSupplier1" ID="{BC53E4C2-FC19-40BD-A7B3-ECEAE6F239C0}" FileName="Objects\linkAddSupplier1.tcObject" Update="False" />
+		</child>
+		<child name="linkImportOrganizations1" key="{9572B515-E8E9-4143-A597-A024233108F7}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkImportOrganizations1" ID="{9572B515-E8E9-4143-A597-A024233108F7}" FileName="Objects\linkImportOrganizations1.tcObject" Update="False" />
+		</child>
+		<child name="linkImportSuppliers1" key="{1F18E963-8B32-4085-9C45-0FEA50E69D98}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="linkImportSuppliers1" ID="{1F18E963-8B32-4085-9C45-0FEA50E69D98}" FileName="Objects\linkImportSuppliers1.tcObject" Update="False" />
+		</child>
+		<child name="textnodeAddNewSupplier1" key="{D6D3FC1F-F82D-4191-86D5-1F09D98CA763}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="textnodeAddNewSupplier1" ID="{D6D3FC1F-F82D-4191-86D5-1F09D98CA763}" FileName="Objects\textnodeAddNewSupplier1.tcObject" Update="False" />
+		</child>
+		<child name="textnodeMessagetext1" key="{FE021DF2-E30A-46E9-83C3-15F94113C3E8}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="textnodeMessagetext1" ID="{FE021DF2-E30A-46E9-83C3-15F94113C3E8}" FileName="Objects\textnodeMessagetext1.tcObject" Update="False" />
+		</child>
+		<child name="textnodeSelectCommunity1" key="{3DA92CC8-7029-489A-AA51-766727544CD4}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="textnodeSelectCommunity1" ID="{3DA92CC8-7029-489A-AA51-766727544CD4}" FileName="Objects\textnodeSelectCommunity1.tcObject" Update="False" />
+		</child>
+	</children>
+	<folders />
+</Root>
